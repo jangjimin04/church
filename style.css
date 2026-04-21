@@ -20,18 +20,22 @@ body {
 }
 
 .site-header {
-  background: #5a4634;
-  color: white;
+  background-image: url(./image/back.jpg);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #543d1c;
   text-align: center;
-  padding: 20px 0;
+  padding: 120px 0;
 }
 
 .logo {
+  font-size: 48px;
   margin: 0;
 }
 
 .tagline {
-  font-size: 14px;
+  font-size: 16px;
   opacity: 0.8;
 }
 
